@@ -1,7 +1,6 @@
 <?php
 header('Content-type: text/html; charset=utf-8');
 
-echo "nihao";
 $string1="null";
 $string2="str";
 
